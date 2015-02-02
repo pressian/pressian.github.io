@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>프레시안 개발자 센터</title>
-    <description>A jekyll theme. Because I scribble.</description>
+    <description>프레시안 개발자 센터</description>
     <link>http://developers.pressian.coop</link>
     <atom:link href="http://developers.pressian.coop/feed.xml" rel="self" type="application/rss+xml" />
     
