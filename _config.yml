@@ -10,8 +10,11 @@ links:
     url:          /blog
   - name:         Newsletter
     url:          /newsletter
-  - name:         Wiki
-    url:          http://pressian.atlassian.net/wiki/
+  - name:         Documents
+    url:          http://github.com/pressian/docs/
+    external:     true
+  - name:         Labs
+    url:          http://developers.pressian.coop/labs/
     external:     true
   - name:         GitHub
     url:          http://github.com/pressian
