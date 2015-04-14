@@ -7,6 +7,14 @@
     <atom:link href="http://developers.pressian.coop/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>열린 프레시안 뉴스레터 3호 발행</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://eepurl.com/bihdi5&quot;&gt;열린 프레시안 뉴스레터 3호&lt;/a&gt;를 발행하였습니다.&lt;/p&gt;</description>
+        <pubDate>Mon, 06 Apr 2015 05:00:00 +0000</pubDate>
+        <link>http://developers.pressian.coop/2015/04/06/newsletter/</link>
+        <guid isPermaLink="true">http://developers.pressian.coop/2015/04/06/newsletter/</guid>
+      </item>
+    
+      <item>
         <title>열린 프레시안 뉴스레터 2호 발행</title>
         <description>&lt;p&gt;&lt;a href=&quot;http://eepurl.com/bftcoL&quot;&gt;열린 프레시안 뉴스레터 2호&lt;/a&gt;를 발행하였습니다.&lt;/p&gt;</description>
         <pubDate>Mon, 02 Mar 2015 05:00:00 +0000</pubDate>
