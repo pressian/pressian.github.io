@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 열린 프레시안 인터뷰
-date: 2015-04-17 08:00:00 +0900
+date: 2015-04-17 10:00:00 +0900
 ---
 
 협동조합 전환 초기, 김봉규 조합원이 커뮤니티에 [아래 글](http://www.pressian.com/mybbs/bbs.html?mode=view&bbs_code=free&bbs_no=14)을 올렸습니다.
