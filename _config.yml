@@ -22,7 +22,4 @@ links:
     external:     true
 highlighter:      pygments
 permalink:        pretty
-markdown:         maruku
-redcarpet:
-  extensions:
-    - smart
+markdown:         kramdown
