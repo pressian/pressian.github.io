@@ -14,9 +14,8 @@ links:
   - name:         Documents
     url:          http://github.com/pressian/docs/
     external:     true
-  - name:         Labs
-    url:          http://developers.pressian.coop/labs/
-    external:     true
+  - name:         Playground
+    url:          /playground/
   - name:         GitHub
     url:          http://github.com/pressian
     external:     true
