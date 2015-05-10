@@ -7,7 +7,7 @@ google_analytics: UA-61936757-1
 links:
   - name:         Blog
     url:          http://openpressian.wordpress.com/
-    external:      true
+    external:     true
   - name:         Playground
     url:          http://pressian.github.io/playground/
     external:     true
