@@ -1,12 +1,13 @@
 title:            프레시안 개발자 센터
 description:      프레시안 개발자 센터
 url:              http://pressian.github.io/
-signoff:          Open Pressian
+signoff:          열린 프레시안
 google_analytics: UA-61936757-1
 
 links:
-  - name:         About
-    url:          /
+  - name:         Blog
+    url:          http://openpressian.wordpress.com/
+    external:      true
   - name:         Playground
     url:          http://pressian.github.io/playground/
     external:     true
