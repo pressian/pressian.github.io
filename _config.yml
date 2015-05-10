@@ -11,14 +11,11 @@ links:
   - name:         Blog
     url:          http://openpressian.wordpress.com/
     external:     true
-  - name:         Newsletter
-    url:          http://eepurl.com/baX51v
-    external:     true
-  - name:         Documents
-    url:          http://github.com/pressian/docs/
-    external:     true
   - name:         GitHub
     url:          http://github.com/pressian
+    external:     true
+  - name:         Gitbooks
+    url:          http://pressian.gitbooks.io/
     external:     true
 highlighter:      pygments
 permalink:        pretty
