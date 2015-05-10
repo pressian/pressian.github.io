@@ -5,11 +5,11 @@ signoff:          열린 프레시안
 google_analytics: UA-61936757-1
 
 links:
+  - name:         Playground
+    url:          /playground/
+    external:     true
   - name:         Blog
     url:          http://openpressian.wordpress.com/
-    external:     true
-  - name:         Playground
-    url:          http://pressian.github.io/playground/
     external:     true
   - name:         Newsletter
     url:          http://eepurl.com/baX51v
